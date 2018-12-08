@@ -1,0 +1,150 @@
+body {
+  background-color: mediumseagreen;
+}
+
+.screen {
+  width: 1000px;
+  height: 500px;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-top: 5%;
+  margin-left: 13%;
+  position: absolute;
+}
+
+.part2 {
+  width: 60%;
+  height: 100%;
+  background-image: url(./rose-165819.jpg);
+  background-size: 100% 100%;
+  margin-left: 40%;
+}
+
+.lin {
+  text-decoration: none;
+  color: white;
+  font-size: 13px;
+  padding-left: 5%;
+}
+
+.screen3 {
+  background-image: -webkit-linear-gradient(left, blue, lightskyblue);
+  width: 30%;
+  height: 50%;
+  position: absolute;
+  margin-left: 16%;
+  margin-top: 12%;
+  border-radius: 20px;
+}
+
+.symbol {
+  position: absolute;
+}
+
+.screen3 img {
+  max-width: 200px;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+.design {
+  width: 100px;
+  height: 200px;
+  position: absolute;
+}
+
+.screen3_1 img {
+  margin-left: 60%;
+  margin-top: 0%;
+}
+
+.part1 {
+  background-color: white;
+  position: absolute;
+  width: 40%;
+  height: 100%;
+}
+
+.text {
+  font-size: 15px;
+  color: black;
+  font-family: serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  position: absolute;
+  padding-left: 15%;
+}
+
+.m_font {
+  position: absolute;
+  font-size: 30px;
+  padding-top: 18%;
+  padding-left: 15%;
+  color: dimgray;
+}
+
+span {
+  color: black;
+  font-weight: bold;
+}
+
+.detail {
+  color: darkgray;
+  font-size: 15px;
+  position: absolute;
+  padding-top: 34%;
+  padding-left: 13%;
+  font-family: serif;
+}
+
+#data {
+  position: absolute;
+  margin-top: 56%;
+  margin-left: 13%;
+}
+
+.login {
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  font-family: serif;
+  border: 0px solid transparent;
+}
+
+.check {
+  color: black;
+}
+
+.forgot {
+  padding-left: 60px;
+  color: dimgray;
+  font-size: 13px;
+}
+
+td {
+  font-size: 12px;
+  color: dimgray;
+}
+
+.login_ {
+  position: absolute;
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 35px;
+  border-radius: 7px;
+  margin-top: 10px;
+  border: 0px solid transparent;
+}
+
+.sign_up {
+  position: absolute;
+  background-color: white;
+  color: darkgrey;
+  width: 100px;
+  height: 35px;
+  border-radius: 7px;
+  margin-top: 10px;
+  margin-left: 40%;
+}
